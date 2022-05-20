@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "dist",
+        "target": "ES2021",
+        "declaration": true,
+        "skipLibCheck": true,
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}

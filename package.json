@@ -1,0 +1,29 @@
+{
+  "name": "eska-id",
+  "version": "0.1.2",
+  "description": "☀️ A simple, functional and customizable ID system.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidakx/eska.git"
+  },
+  "scripts": {
+    "release": "standart-version"
+  },
+  "keywords": [
+    "aidak",
+    "eska",
+    "id",
+    "uuid"
+  ],
+  "author": "Aidak",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aidakx/eska/issues"
+  },
+  "homepage": "https://github.com/aidakx/eska#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
