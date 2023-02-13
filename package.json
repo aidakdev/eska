@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/helloaidak/eska#readme",
   "devDependencies": {
+    "@types/node": "^18.13.0",
     "standard-version": "^9.5.0"
   }
 }
