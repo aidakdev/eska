@@ -1,6 +1,6 @@
 {
   "name": "eska-id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "☀️ A simple, functional and customizable ID system.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,12 +12,12 @@
     "release": "standard-version"
   },
   "keywords": [
-    "aidak",
+    "wiletki",
     "eska",
     "id",
     "uuid"
   ],
-  "author": "Aidak",
+  "author": "wiletki",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/helloaidak/eska/issues"
