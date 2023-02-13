@@ -3,15 +3,12 @@
     <p align="center">
         The simple, functional and customizable ID system.
         <br />
-        <a href="https://aidak.xyz"><strong>aidak.xyz »</strong></a>
+        <a href="https://wile.tk"><strong>wile.tk »</strong></a>
     </p>
 </p>
 
 <p align="center">
-    <a href="https://aidak.xyz">
-        <img src="https://img.shields.io/badge/Aidak-Official%20Product-8877ff" />
-    </a>
-    <a href="https://twitter.com/willycastells">
+    <a href="https://twitter.com/wiletki">
         <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
     </a>
     <img src="https://img.shields.io/static/v1?label=License&message=Apache%202.0&color=000" />
